@@ -22,7 +22,11 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/piyushxth/piyushxth/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/piyushxth/piyushxth/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/piyushxth/piyushxth/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/piyushxth/piyushxth/output/github-snake.svg" />
+</picture>
 
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://twitter.com/Piyush23894000" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
@@ -55,9 +59,3 @@
 [![](https://visitcount.itsvg.in/api?id=piyushxth&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/piyushxth/piyushxth/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/piyushxth/piyushxth/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/piyushxth/piyushxth/output/github-snake.svg" />
-</picture>
